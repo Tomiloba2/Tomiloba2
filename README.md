@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%;height:40% />
 </div> 
 
  ## I'm Omojola Tomiloba David 
@@ -89,6 +89,20 @@ A book, image and movie search app
 <br/>                                                                                              <
 
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tomiloba2&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Tomiloba2&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
 ## Connect with me  
 <div align="center">
 <a href="https://instagram.com/Tomiloba2" target="_blank">
@@ -109,19 +123,6 @@ A book, image and movie search app
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tomiloba2&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Tomiloba2&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/Tomiloba2" target="_blank" style="display: inline-block;">
