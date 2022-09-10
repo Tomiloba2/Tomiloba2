@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%;height:30% />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%;height:10% />
 </div> 
 
  ## I'm Omojola Tomiloba David 
@@ -93,7 +93,7 @@
 
 <br/>  
 
-# Recent Projects
+# Recent Project
 
 ## MicroRealm
 
@@ -103,6 +103,7 @@ A book, image and movie search app
 <img src="Asset/Screenshot%202022-09-07%20at%2022-40-17%20MicroRealm.png" align="center" style="width: 50%;height:30% />
  <img src="Asset/Screenshot%202022-09-09%20at%2012-26-08%20Burgerhub.png" align="center" style="width: 50%;height:30% />
 </div> 
+                                                                                                
 <br/>                                                                                              <
 
 
