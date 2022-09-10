@@ -1,11 +1,10 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
+ ## I'm Omojola Tomiloba David 
 
-### <div align="center">I am a front-end website developer and I specialize in creating
- mobile friendly websites. I'm also good at working with REST APIs.
- I am passionate about coding and I like solving problems and learning new things 🚀</div>  
+### <div align="center">I am a front-end website developer and I specialize in creating mobile friendly websites.
+ I'm also good at working with REST APIs and I am passionate about coding and I like solving problems and learning new things 🚀</div>  
   
 
 - 🔭 I’m currently working on contributing to Open Source projects  
@@ -24,7 +23,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="45%">
 
 
 
@@ -37,7 +36,7 @@
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="20%">
 
 
 
@@ -46,7 +45,7 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="30%">
 
 
 
