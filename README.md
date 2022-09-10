@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%;height:10% />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%;height:5% />
 </div> 
 
  ## I'm Omojola Tomiloba David 
