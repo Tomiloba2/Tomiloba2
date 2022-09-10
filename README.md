@@ -1,25 +1,105 @@
-#  hi I'm Omojola Tomiloba David
- 
-                             ![me](Asset/Screenshot%202022-09-09%20at%2017-10-37%20Portfolio%20Home%20Page.png)
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
- I am a front-end website developer and I specialise in creating
- mobile friendly websites.I'm also good at working with REST APIs.
- I am passionate about coding and I like solving problems and learning new things
+### <div align="center">I am a front-end website developer and I specialize in creating
+ mobile friendly websites. I'm also good at working with REST APIs.
+ I am passionate about coding and I like solving problems and learning new things 🚀</div>  
+  
 
-## Area of specialty
-   I specialise in the following:
-   ![React](Asset/react.png) React    ![Next.js](Asset/nextjs1.png) Next.js  ![React-Bootstrap](Asset/reactBootstrap.png) React-Bootstrap 
-   ![Material-ui](Asset/materialUI.png) Material-UI
+- 🔭 I’m currently working on contributing to Open Source projects  
+  
 
-  Other libraries and framework I'm also good at
-  ![sass](Asset/sass.png) Sass   ![jquery](Asset/jquery.png) jQuery   ![materialize](Asset/materialize.png)
-     Materialize
- 
-## Some of my projects
-    A few of my projects
-   - ![MicroRealm](Asset/Screenshot%202022-09-07%20at%2022-40-17%20MicroRealm.png) MicroRealm
-   - ![MicroState](Asset/Screenshot%202022-09-09%20at%2012-43-03%20MicroState.png) MicroState
-   - ![Burgerhub](Asset/Screenshot%202022-09-09%20at%2012-26-08%20Burgerhub.png) Burgerhub
-   
-## Social links
-   Contact me via
+- 🌱 I’m currently learning superbase and Tailwind  
+  
+
+- ❓ Ask me about anything related to React and front-end web development  
+  
+
+- ⚡ Fun fact: I love watching the sun set  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://instagram.com/Tomiloba2" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Tomiloba2" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Tomiloba2" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://gitlab.com/Tomiloba2" target="_blank">
+<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tomiloba2&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Tomiloba2&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/Tomiloba2" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+<br />
