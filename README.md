@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%;height:3vw" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; />
 </div> 
 
  ## I'm Omojola Tomiloba David 
@@ -67,11 +67,15 @@
 A book, image and movie search app
 
 <div align="center">
-<img src="Asset/Screenshot%202022-09-07%20at%2022-40-17%20MicroRealm.png" align="center" style="width: 700%; />
+<img src="Asset/Screenshot%202022-09-07%20at%2022-40-17%20MicroRealm.png" align="center" style="width: 100%; />
                                                                                                 >
  <a href='https://github.com/Tomiloba2/MicroRealm.git'>view project</a>
 </div> 
-                                                                                                
+
+
+<br/>
+ 
+ 
 ## BurgerHub    
  
   A Restaurant website  
@@ -81,8 +85,9 @@ A book, image and movie search app
  <a href='https://github.com/Tomiloba2/Burgerhub.git'>view project</a>
 </div> 
 
-<br/>
- <br/>                                                                                               <
+
+<br/>                                                                                              <
+
 
 ## Connect with me  
 <div align="center">
