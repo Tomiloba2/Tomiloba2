@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%;height:3vw" />
+</div> 
+
  ## I'm Omojola Tomiloba David 
 
 ### <div align="center">I am a front-end website developer and I specialize in creating mobile friendly websites.
@@ -23,7 +24,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="45%">
+<table><tr><td valign="top" width="60%">
 
 
 
@@ -58,6 +59,16 @@
 </td></tr></table>  
 
 <br/>  
+
+# Recent Project
+
+## MicroRealm
+
+A book, image and movie search app
+
+<div align="center">
+<img src="Asset/Screenshot%202022-09-09%20at%2017-10-37%20Portfolio%20Home%20Page.png" align="center" style="width: 100%; />
+</div> 
 
 
 ## Connect with me  
