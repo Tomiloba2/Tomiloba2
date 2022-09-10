@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%;height:3% />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%;height:10vw />
 </div> 
 
+#  I'm Omojola Tomiloba David                                                                                          
 
-# <div align="center"> I'm Omojola Tomiloba David. 
- I am a front-end website developer and I specialize in creating mobile friendly websites.
+## <div align="center">I am a front-end website developer and I specialize in creating mobile friendly websites.
  I'm also good at working with REST APIs and I am passionate about coding and I like solving problems and learning new things 🚀</div>  
   
 
