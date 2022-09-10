@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%;height:40% />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%;height:30% />
 </div> 
 
  ## I'm Omojola Tomiloba David 
@@ -60,35 +60,6 @@
 
 <br/>  
 
-# Recent Projects
-
-## MicroRealm
-
-A book, image and movie search app
-
-<div align="center">
-<img src="Asset/Screenshot%202022-09-07%20at%2022-40-17%20MicroRealm.png" align="center" style="width: 50%;height:30% />
-                                                                                                >
- <a href='https://github.com/Tomiloba2/MicroRealm.git'>view project</a>
-</div> 
-
-
-<br/>
- 
- 
-## BurgerHub    
- 
-  A Restaurant website  
-                                                                                                
-<div align="center">
-<img src="Asset/Screenshot%202022-09-09%20at%2012-26-08%20Burgerhub.png" align="center" style="width: 70%; />
- <a href='https://github.com/Tomiloba2/Burgerhub.git'>view project</a>
-</div> 
-
-
-<br/>                                                                                              <
-
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tomiloba2&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
@@ -121,6 +92,35 @@ A book, image and movie search app
   
 
 <br/>  
+
+# Recent Projects
+
+## MicroRealm
+
+A book, image and movie search app
+
+<div align="center" style='margin:2vw'>
+<img src="Asset/Screenshot%202022-09-07%20at%2022-40-17%20MicroRealm.png" align="center" style="width: 50%;height:30% />
+                                                                                                >
+ <a href='https://github.com/Tomiloba2/MicroRealm.git'>view project</a>
+</div> 
+
+
+<br/>
+ 
+ 
+## BurgerHub    
+ 
+  A Restaurant website  
+                                                                                                
+<div align="center" style='margin:2vw'>
+<img src="Asset/Screenshot%202022-09-09%20at%2012-26-08%20Burgerhub.png" align="center" style="width: 50%;height:30% />
+ <a href='https://github.com/Tomiloba2/Burgerhub.git'>view project</a>
+</div> 
+
+
+<br/>                                                                                              <
+
 
 
 
