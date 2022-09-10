@@ -67,7 +67,7 @@
 A book, image and movie search app
 
 <div align="center">
-<img src="Asset/Screenshot%202022-09-07%20at%2022-40-17%20MicroRealm.png" align="center" style="width: 100%; />
+<img src="Asset/Screenshot%202022-09-07%20at%2022-40-17%20MicroRealm.png" align="center" style="width: 50%;height:30% />
                                                                                                 >
  <a href='https://github.com/Tomiloba2/MicroRealm.git'>view project</a>
 </div> 
