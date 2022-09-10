@@ -1,6 +1,3 @@
-
-![hero](Asset/modern8.jpg)
-
 #  hi I'm Omojola Tomiloba David
  
 ![me](Asset/Screenshot%202022-09-09%20at%2017-10-37%20Portfolio%20Home%20Page.png)
@@ -11,21 +8,11 @@
 
 ## Area of specialty
    I specialise in the following:
-  1. ![React](Asset/react.png) 
-     React
-  2. ![Next.js](Asset/nextjs1.png) 
-     Next.js
-  3. ![React-Bootstrap](Asset/reactBootstrap.png) 
-     React-Bootstrap
-  4. ![Material-ui](Asset/materialUI.png)
-      Material-UI
+  1. ![React](Asset/react.png) React  2. ![Next.js](Asset/nextjs1.png) Next.js
+  3. ![React-Bootstrap](Asset/reactBootstrap.png) React-Bootstrap   4. ![Material-ui](Asset/materialUI.png) Material-UI
 
   Other libraries and framework I'm also good at
- 1. ![sass](Asset/sass.png) 
-    Sass
- 2. ![jquery](Asset/jquery.png)
-    jQuery
- 3. ![materialize](Asset/materialize.png)
+ 1. ![sass](Asset/sass.png) Sass  2. ![jquery](Asset/jquery.png) jQuery  3. ![materialize](Asset/materialize.png)
      Materialize
  
 ## Some of my projects
