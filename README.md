@@ -17,6 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to add Authentication to your React app using Appwrite](https://dev.to/tomiloba2/how-to-add-authentication-to-your-react-app-using-appwrite-908)
+- [How to Optimize Your Website for Optimal Performance](https://dev.to/tomiloba2/how-to-optimize-your-website-for-optimal-performance-466n)
+- [Demystifying Client-Side Scripting and Server-Side Scripting](https://dev.to/tomiloba2/demystifying-client-side-scripting-and-server-side-scripting-49bi)
+- [Understanding the Difference Between Bugs, Errors, Defects and Failures in Software Testing](https://dev.to/tomiloba2/understanding-the-difference-between-bugs-errors-defects-and-failures-in-software-testing-eje)
+- [CORS&lpar;Cross-Origin Resource Sharing&rpar; for Web Developers](https://dev.to/tomiloba2/understanding-cross-origin-resource-sharing-cors-for-web-developers-31oa)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
