@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Request-Response Cycle: How Web Applications Communicate](https://dev.to/tomiloba2/the-request-response-cycle-how-web-applications-communicate-edi)
 - [Components in React](https://dev.to/tomiloba2/components-in-react-2ia)
 - [Web Scraping Fundamentals with Puppeteer and Node](https://dev.to/tomiloba2/web-scraping-fundamentals-with-puppeteer-and-node-49ke)
 - [A Fun Guide to Using Framer Motion to Liven Up Your React App](https://dev.to/tomiloba2/a-fun-guide-to-using-framer-motion-to-liven-up-your-react-app-51n4)
 - [How to add Authentication to your React app using Appwrite](https://dev.to/tomiloba2/how-to-add-authentication-to-your-react-app-using-appwrite-908)
-- [How to Optimize Your Website for Optimal Performance](https://dev.to/tomiloba2/how-to-optimize-your-website-for-optimal-performance-466n)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
