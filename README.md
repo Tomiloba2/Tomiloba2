@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Dynamic Route Swallowing in Go &lpar;and How to Fix It&rpar;](https://dev.to/tomiloba2/debugging-dynamic-route-swallowing-in-go-and-how-to-fix-it-4da6)
-- [How I Learned to Design a Database From a Product Requirements Document &lpar;PRD&rpar;](https://dev.to/tomiloba2/how-i-learned-to-design-a-database-from-a-product-requirements-document-prd-3dn3)
+- [Online School, Messy Billing, and the Proration Rabbit Hole](https://dev.to/tomiloba2/online-school-messy-billing-and-the-proration-rabbit-hole-d66)
+- [Go HTTP Routing Conflicts: How to Fix Dynamic Route Swallowing](https://dev.to/tomiloba2/debugging-dynamic-route-swallowing-in-go-and-how-to-fix-it-4da6)
+- [How to Design a Database From a Product Requirements Document &lpar;PRD&rpar;](https://dev.to/tomiloba2/how-i-learned-to-design-a-database-from-a-product-requirements-document-prd-3dn3)
 - [The Request-Response Cycle: How Web Applications Communicate](https://dev.to/tomiloba2/the-request-response-cycle-how-web-applications-communicate-edi)
 - [Components in React](https://dev.to/tomiloba2/components-in-react-2ia)
-- [Web Scraping Fundamentals with Puppeteer and Node](https://dev.to/tomiloba2/web-scraping-fundamentals-with-puppeteer-and-node-49ke)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
